@@ -1,8 +1,8 @@
-# How to Get Started with the Syncfusion Vue AutoComplete
+# How to Get Started with the Vue AutoComplete Component of Syncfusion?
 
 Learn how easily you can create and configure the Syncfusion Vue AutoComplete using Vue CLI. You will learn how to add the Syncfusion Vue AutoComplete to a Vue application. You will see how to populate JSON data and remote data sources to the AutoComplete, how to highlight the searched text, and how to set a custom height and width for the AutoComplete pop-up. 
 
-Documentatio Link: https://ej2.syncfusion.com/vue/documentation/auto-complete/getting-started/
+Documentation Link: https://ej2.syncfusion.com/vue/documentation/auto-complete/getting-started/
 
 Demo Link: https://ej2.syncfusion.com/vue/demos/#/material/auto-complete/default.html
 
